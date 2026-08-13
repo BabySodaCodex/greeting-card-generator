@@ -2,7 +2,7 @@ let style = prompt("Fancy or silly?");
 let name = prompt("A name:");
 let adjective = prompt("An adjective:");
 let noun = prompt("A noun:");
-
+//helper function
 
 let closings = [
   "You are a legend.",
